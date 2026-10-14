@@ -1,2 +1,3 @@
 I want to try practicing about pull-request
-add another line to this file to so;ve the conflict
+Add another line to this file to solve the conflict, If I had it.
+I make some changes in my txt file 
