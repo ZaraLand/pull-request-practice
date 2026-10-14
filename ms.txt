@@ -1,1 +1,2 @@
 I want to try practicing about pull-request
+add another line to this file to so;ve the conflict
